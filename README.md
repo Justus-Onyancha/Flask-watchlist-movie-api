@@ -1,4 +1,4 @@
-<h1 align="center">Flask Movie App</h1>
+<h1 align="center">Flask Movie App (watchlist db)</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.2.3-blue.svg?cacheSeconds=2592000" />
   <a href="LICENSE" target="_blank">
@@ -84,7 +84,7 @@ If you wish to deploy your app on heroku, you can follow the steps on this [gist
 * **no_known_bugs**: 
 
 ## Technologies Used
-* Python 3.7.4
+* Python 3.8.0
 * Flask 1.1.1
 * HTML  
 * CSS
