@@ -78,7 +78,7 @@ python manage.py db migrate -m "<migration message>"
   * You can read more about flask-migrate by checking out their [documentation](https://flask-migrate.readthedocs.io/en/latest/)
 
 ### Deployment
-If you wish to deploy your app on heroku, you can follow the steps on this [gist]()
+If you wish to deploy your app on heroku, you can follow the steps deployment.md file in this app
 
 ## Known Bugs
 * **no_known_bugs**: 
