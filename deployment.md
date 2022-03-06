@@ -1,5 +1,9 @@
 # Justus Deployment prepared for students
 
+## Useful resource
+
+https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-20-04
+
 ### Deployment
 If you wish to deploy your app on heroku, you can follow the steps on this file
 
