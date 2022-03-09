@@ -1,5 +1,8 @@
 # Justus Deployment prepared for students
 
+## Extra resouce by Albert Byrone
+https://github.com/Albert-Byrone/Deploy_to_Heroku_Flask
+
 ## Useful resource
 
 https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-20-04
