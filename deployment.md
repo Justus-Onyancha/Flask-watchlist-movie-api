@@ -46,6 +46,7 @@ class ProdConfig(Config):
 * Don’t forget to switch to ‘production’ in manage.py
 git add .
 git commit -m "deployment to heroku"
+git push origin master
 git push heroku master
 
 
